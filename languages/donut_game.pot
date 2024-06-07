@@ -1,0 +1,109 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Donut Mini Game\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-07 16:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.9; wp-6.5.4\n"
+"X-Domain: donut_game"
+
+#. Description of the plugin
+msgid "A WordPress plugin to display a mini game."
+msgstr ""
+
+#: donut_game.php:142
+msgid "Are you sure you want to clear all results?"
+msgstr ""
+
+#: donut_game.php:205
+msgid "Clear Results"
+msgstr ""
+
+#. Author of the plugin
+msgid "Dmitry Guzeev"
+msgstr ""
+
+#. Name of the plugin
+msgid "Donut Mini Game"
+msgstr ""
+
+#: donut_game.php:141
+msgid "Failure"
+msgstr ""
+
+#: donut_game.php:130
+msgid "Game Result"
+msgstr ""
+
+#: donut_game.php:133
+msgid "Go"
+msgstr ""
+
+#: donut_game.php:137 donut_game.php:188
+msgid "Jump Distance"
+msgstr ""
+
+#: donut_game.php:69
+msgid "Mini Game"
+msgstr ""
+
+#: donut_game.php:69 donut_game.php:82
+msgid "Mini Game Settings"
+msgstr ""
+
+#: donut_game.php:134 donut_game.php:202
+msgid "No results yet"
+msgstr ""
+
+#: donut_game.php:39 donut_game.php:94 donut_game.php:108
+msgid "None"
+msgstr ""
+
+#: donut_game.php:132
+msgid "Retry"
+msgstr ""
+
+#: donut_game.php:135 donut_game.php:188
+msgid "Rock Position"
+msgstr ""
+
+#: donut_game.php:138 donut_game.php:188
+msgid "Rock Size"
+msgstr ""
+
+#: donut_game.php:139 donut_game.php:188
+msgid "Run Result"
+msgstr ""
+
+#: donut_game.php:136 donut_game.php:188
+msgid "Run Time"
+msgstr ""
+
+#: donut_game.php:88
+msgid "Select page to display Mini Game"
+msgstr ""
+
+#: donut_game.php:101
+msgid "Select post to display Mini Game"
+msgstr ""
+
+#: donut_game.php:129 donut_game.php:174
+msgid "Start Game"
+msgstr ""
+
+#: donut_game.php:140
+msgid "Success"
+msgstr ""
+
+#: donut_game.php:131
+msgid "Your result"
+msgstr ""

@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Donut Mini Game\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-07 15:33+0000\n"
+"PO-Revision-Date: 2024-06-07 16:07+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.9; wp-6.5.4\n"
+"X-Domain: donut_game"
+
+#. Description of the plugin
+msgid "A WordPress plugin to display a mini game."
+msgstr "A WordPress plugin to display a mini game."
+
+#: donut_game.php:142
+msgid "Are you sure you want to clear all results?"
+msgstr "Are you sure you want to clear all results?"
+
+#: donut_game.php:205
+msgid "Clear Results"
+msgstr "Clear Results"
+
+#. Author of the plugin
+msgid "Dmitry Guzeev"
+msgstr "Dmitry Guzeev"
+
+#. Name of the plugin
+msgid "Donut Mini Game"
+msgstr "Donut Mini Game"
+
+#: donut_game.php:141
+msgid "Failure"
+msgstr "Failure"
+
+#: donut_game.php:130
+msgid "Game Result"
+msgstr "Game Result"
+
+#: donut_game.php:133
+msgid "Go"
+msgstr "Go"
+
+#: donut_game.php:137 donut_game.php:188
+msgid "Jump Distance"
+msgstr "Jump Distance"
+
+#: donut_game.php:69
+msgid "Mini Game"
+msgstr "Mini Game"
+
+#: donut_game.php:69 donut_game.php:82
+msgid "Mini Game Settings"
+msgstr "Mini Game Settings"
+
+#: donut_game.php:134 donut_game.php:202
+msgid "No results yet"
+msgstr "No results yet"
+
+#: donut_game.php:39 donut_game.php:94 donut_game.php:108
+msgid "None"
+msgstr "None"
+
+#: donut_game.php:132
+msgid "Retry"
+msgstr "Retry"
+
+#: donut_game.php:135 donut_game.php:188
+msgid "Rock Position"
+msgstr "Rock Position"
+
+#: donut_game.php:138 donut_game.php:188
+msgid "Rock Size"
+msgstr "Rock Size"
+
+#: donut_game.php:139 donut_game.php:188
+msgid "Run Result"
+msgstr "Run Result"
+
+#: donut_game.php:136 donut_game.php:188
+msgid "Run Time"
+msgstr "Run Time"
+
+#: donut_game.php:88
+msgid "Select page to display Mini Game"
+msgstr "Select page to display Mini Game"
+
+#: donut_game.php:101
+msgid "Select post to display Mini Game"
+msgstr "Select post to display Mini Game"
+
+#: donut_game.php:129 donut_game.php:174
+msgid "Start Game"
+msgstr "Start Game"
+
+#: donut_game.php:140
+msgid "Success"
+msgstr "Success"
+
+#: donut_game.php:131
+#| msgid "Your result:"
+msgid "Your result"
+msgstr "Your result"
